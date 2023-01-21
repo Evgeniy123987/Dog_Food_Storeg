@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.fb360a95.css",
-    "main.js": "/static/js/main.9cc711d3.js",
+    "main.css": "/static/css/main.f616d724.css",
+    "main.js": "/static/js/main.ff4f5a25.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/logo_dogFood.svg": "/static/media/logo_dogFood.4f9d699de55eb25e196ecc4c87a15a5e.svg",
-    "static/media/save.svg": "/static/media/save.1cebf969ae040e6630f7d45c96ee4a31.svg",
+    "static/media/save.svg": "/static/media/save.c486948e233032ef7244745c228a8fcf.svg",
     "index.html": "/index.html",
     "static/media/ic-search.svg": "/static/media/ic-search.296528dfccff6373f75e8f75d02e833a.svg",
-    "main.fb360a95.css.map": "/static/css/main.fb360a95.css.map",
-    "main.9cc711d3.js.map": "/static/js/main.9cc711d3.js.map",
+    "main.f616d724.css.map": "/static/css/main.f616d724.css.map",
+    "main.ff4f5a25.js.map": "/static/js/main.ff4f5a25.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb360a95.css",
-    "static/js/main.9cc711d3.js"
+    "static/css/main.f616d724.css",
+    "static/js/main.ff4f5a25.js"
   ]
 }
